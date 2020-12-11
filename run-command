@@ -1,0 +1,1 @@
+pm2 start "./node_modules/.bin/vue-cli-service --mode production serve" --name "SV"
